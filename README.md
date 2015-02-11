@@ -1,4 +1,4 @@
-# ps_scripts
+# photoshop_scripts
 My scripts for Adobe Photoshop
 
 # Layer Comper
