@@ -15,4 +15,5 @@ Useful for Smart Object layer comps
 Transform odd integer and fractional font size and leading values into the even numbers. Actual only for selected layers. 
 
 Tip: How to select all text layers.
+
 <img src="http://s27.postimg.org/8hzym65zn/select_all_layers.gif">
