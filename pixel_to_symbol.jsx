@@ -19,6 +19,9 @@ dlg.editInput = dlg.add('edittext', {
     y: 0,
     width: 180,
     height: 20
+}, "", {
+    multiline: true,
+    scrolling: false
 });
 dlg.buttonRun = dlg.add('button', {
     x: 0,
