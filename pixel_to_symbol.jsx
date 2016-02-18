@@ -34,6 +34,7 @@ var namePart = "";
 dlg.buttonRun.onClick = function() {
     userText = dlg.editInput.text;
     userText.replace(/\ |\"|\[|\]|\'|\-|\_|\.|\,/, "");
+    userText.replace(/\r?\n|\r/g, "");
     dlg.hide();
 }
 
