@@ -1,6 +1,14 @@
 # photoshop_scripts
 My scripts for Adobe Photoshop
 
+# Batch color replacement
+### [batch_replace_color.jsx](https://github.com/colorage/photoshop_scripts/blob/master/batch_replace_color.jsx)
+Replace colors in whole document.
+
+<img src="https://cdn-images-1.medium.com/max/400/1*WXuV3pw4AAAljbhnJ_2s1g.png">
+
+(RUS) Read [article](https://medium.com/photoshop-tips/85bc42dfc72b) about it 
+
 # Layer Comper
 ### [layercomper.jsx](https://github.com/colorage/photoshop_scripts/blob/master/layercomper.jsx)
 Create Layer Comps in order: parent layer/group visibility -> layer comp
